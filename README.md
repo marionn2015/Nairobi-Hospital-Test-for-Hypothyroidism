@@ -18,7 +18,7 @@ Approach 2 Gradient Boosting
 
 Approach 3 SVM
 
-# Findings and Recommendations
+Findings and Recommendations
 
 # Setup/Installation Requirements
 
